@@ -6,7 +6,7 @@ Projeto Code Connect utilizando JavaScript assincrono.
 | -------------  | --- |
 | :sparkles: Nome        | **CodeConnect**
 | :label: Tecnologias | HTML, CSS e JavaScript assincrono. 
-| :rocket: URL         | https://andreduarte99.github.io/aluranewsletter/newsletter.html
+| :rocket: URL         | https://andreduarte99.github.io/3802-javascript-assincrono-projeto-base/
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 
